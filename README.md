@@ -1,2 +1,2 @@
 # MACJavaAD
-parse Active Directory on Mac using java
+query Active Directory on Mac using java
